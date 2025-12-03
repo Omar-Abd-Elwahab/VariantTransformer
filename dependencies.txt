@@ -1,0 +1,6 @@
+!apt-get install pyvcf
+!apt-get install -y tabix
+!pip install pytabix
+!apt-get install vcftools
+!pip install transformers
+!apt install bcftools
