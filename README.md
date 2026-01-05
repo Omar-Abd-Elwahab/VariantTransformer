@@ -5,8 +5,7 @@ Variant calling refinement is crucial for distinguishing true genetic variants f
 This repository serves as a comprehensive resource for the development and analysis of a deep-learning model for filtering genomic variants from VCFs. The trained model can be accessed at https://drive.google.com/drive/folders/1L_g9KWxBbYi7WfUr4-jgabfVmvu3Vjf2?usp=sharing. 
 
 # Pre-print citation
-Abdelwahab, O. and Torkamaneh, D., 2024. Refinement of genetic variants needs attention. arXiv preprint arXiv:2408.00659.
-
+Abdelwahab O and Torkamaneh D (2026) A Transformers-based framework for refinement of genetic variants. Front. Bioinform. 5:1694924. doi: 10.3389/fbinf.2025.1694924
 
 # Information
 Sequencing Data Acquisition:
